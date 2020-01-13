@@ -1,1 +1,1 @@
-{ "name": "MSX-Station", "version": "1.0.0", "parameter": "menu:https://msx.restmy.life/json/menu.json" }
+{ "name": "MSX-Station", "version": "1.0.0", "parameter": "menu:https://msx.restmy.life/msx/menu.json" }
