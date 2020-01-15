@@ -69,5 +69,9 @@
                     "image": "http://msx.benzac.de/img/bg3.jpg"                       
                 }]
         }
+    },{
+        "icon": "access-time",
+        "label": "N/A",        
+        "data":"content:https://jejunuackr-my.sharepoint.com/:f:/g/personal/ktwktwkt_jejunu_ac_kr/Evik2yqTRwZEmMA92qtjsjgBuAPEd7B-Uct0REXHNwZ4uw?e=sl6rsc"
     }]
 }
